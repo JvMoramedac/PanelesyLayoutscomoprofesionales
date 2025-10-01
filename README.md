@@ -45,7 +45,7 @@ JFrame (BorderLayout)
       ├─ JButton "Limpiar"
       └─ JButton "Guardar" (default)
 
-´´´
+```text
 ## 3. Propiedades clave de layout
 Zona	Layout	Propiedades destacadas
 Header	FlowLayout	Alignment = LEFT, fuente Bold 18, icono opcional
