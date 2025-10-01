@@ -15,7 +15,7 @@ Diseñé en papel la ventana principal con las siguientes zonas:
 
 ## 2. Árbol de contenedores y layouts
 
-```text
+```
 JFrame (BorderLayout)
  ├─ NORTH: headerPanel (FlowLayout, LEFT)
  │    ├─ JLabel (icono + "Gestor de usuarios")
@@ -44,8 +44,8 @@ JFrame (BorderLayout)
       ├─ JButton "Cancelar"
       ├─ JButton "Limpiar"
       └─ JButton "Guardar" (default)
+```
 
-```text
 ## 3. Propiedades clave de layout
 Zona	Layout	Propiedades destacadas
 Header	FlowLayout	Alignment = LEFT, fuente Bold 18, icono opcional
